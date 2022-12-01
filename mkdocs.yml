@@ -1,2 +1,4 @@
 site_name: Wedding Campaign
 theme: readthedocs
+docs_dir: input
+site_dir: docs
