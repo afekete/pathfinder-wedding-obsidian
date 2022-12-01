@@ -1,0 +1,1 @@
+Alderman of one of the nearby municipalities where people had been abducted. Old, bald, friendly, makes good soup. Gave you guys a writ saying you solved the case.

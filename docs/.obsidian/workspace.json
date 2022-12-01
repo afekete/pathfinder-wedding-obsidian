@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "ca30c5fbb48be220",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4fa73288ed809ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "990a731e08c4e9d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/July 13th, 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c881173dc7f8ec9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c19a0f48e9b806c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0877687f17c3714",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81d04dba02a750c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "18fb7e6f28e4a09a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa06b64ec3f49570",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "40aacbe24469f3ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "472d4efd7d4deed1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4782d5a9b046f4a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Session Notes/July 13th, 2022.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a5f18eb9471aae6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Session Notes/July 13th, 2022.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d7a8115269555bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "08e7bc95f80d780c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Session Notes/July 13th, 2022.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "990a731e08c4e9d6",
+  "lastOpenFiles": [
+    "Session Notes/November 30th, 2022.md",
+    "People/Purpurius Majishus.md",
+    "People/Jean-Os.md",
+    "Locations/Osirion.md",
+    "Locations/Ustalav.md",
+    "Session Notes/Missing sessions.md",
+    "Locations/Saffron House.md",
+    "Locations/Isle of Terror.md",
+    "Locations/Castle Dahlia.md",
+    "Locations/Ardis.md"
+  ]
+}

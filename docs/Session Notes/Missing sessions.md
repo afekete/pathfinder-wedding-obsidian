@@ -1,0 +1,3 @@
+Party travelled to [Saffron House](../Locations/Saffron%20House.md) to prevent one of the points of the [Summoning Circle](../Missions/Summoning%20Circle.md) from being activated. Went on a time looping boat, then went in the house and fought some sort of demon who told us not to trust [Seneschal Marov Harkomir](../People/Seneschal%20Marov%20Harkomir.md)
+
+Now we have returned to [Castle Dahlia](../Locations/Castle%20Dahlia.md) and are hanging around the tavern waiting for something to happen. got paid 500gp in advance. There's a ball in 3 days that we won't be security for

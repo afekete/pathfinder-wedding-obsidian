@@ -1,0 +1,10 @@
+- [Erimor](../People/Erimor.md) wakes up on roof next to dwarf.
+- [Jamie](../People/Jamie.md) has date with [Alison Kindler](../People/Alison%20Kindler.md) tonight
+	- Finds the Garden of Olives
+- Jamie goes clothes shopping
+- [Cerbera](../People/Cerbera.md) goes shopping for potions
+- [Purpurius Majishus](../People/Purpurius%20Majishus.md) created purple
+- Date
+	- Demon thrives on secrets & manipulation
+	- Pukulchi
+	- farasman church - marcus - thing on map

@@ -1,0 +1,1 @@
+former gardenhand at [Castle Dahlia](../Locations/Castle%20Dahlia.md). Went missing approximately two weeks ago. Resurrected as a wight and was attempting to draw a summoning symbol in the servant's quarters prior to the party eternally resting him. Was growing a mandragora.
