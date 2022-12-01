@@ -1,1 +1,0 @@
-roommate to [Elemer Greevs](Elemer%20Greevs.md) and former adventurer turned writer/tinkerer. Has a mechanical left arm. Fixed [Jean-Os](Jean-Os.md)' boots thanks to knowing the design from a friend she has from [Osirion](../Locations/Osirion.md).

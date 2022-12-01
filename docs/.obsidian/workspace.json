@@ -1,26 +1,14 @@
 {
   "main": {
-    "id": "ca30c5fbb48be220",
+    "id": "e77b4c1311c5d286",
     "type": "split",
     "children": [
       {
-        "id": "e4fa73288ed809ab",
+        "id": "5f5685fc6e831069",
         "type": "tabs",
         "children": [
           {
-            "id": "990a731e08c4e9d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/July 13th, 2022.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c881173dc7f8ec9",
+            "id": "b284b1af26406433",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -33,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6c19a0f48e9b806c",
+    "id": "22acdbacd9531d8c",
     "type": "split",
     "children": [
       {
-        "id": "c0877687f17c3714",
+        "id": "8bc02522e6ad46f7",
         "type": "tabs",
         "children": [
           {
-            "id": "81d04dba02a750c2",
+            "id": "fabd5d1f7fcced33",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +39,7 @@
             }
           },
           {
-            "id": "18fb7e6f28e4a09a",
+            "id": "0c534738ce93353c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,7 +54,7 @@
             }
           },
           {
-            "id": "fa06b64ec3f49570",
+            "id": "e0f869f3c959807b",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -80,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "40aacbe24469f3ef",
+    "id": "e86010d4a28d1e7c",
     "type": "split",
     "children": [
       {
-        "id": "472d4efd7d4deed1",
+        "id": "1e59c7686dd6cb2e",
         "type": "tabs",
         "children": [
           {
-            "id": "4782d5a9b046f4a4",
+            "id": "d3e917a5d47353b2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/July 13th, 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,19 +92,18 @@
             }
           },
           {
-            "id": "a5f18eb9471aae6a",
+            "id": "7883e2312b6c88a5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/July 13th, 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4d7a8115269555bb",
+            "id": "beba86c608a927aa",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,13 +114,11 @@
             }
           },
           {
-            "id": "08e7bc95f80d780c",
+            "id": "0fe96659153755b8",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Session Notes/July 13th, 2022.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -144,17 +128,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "990a731e08c4e9d6",
-  "lastOpenFiles": [
-    "Session Notes/November 30th, 2022.md",
-    "People/Purpurius Majishus.md",
-    "People/Jean-Os.md",
-    "Locations/Osirion.md",
-    "Locations/Ustalav.md",
-    "Session Notes/Missing sessions.md",
-    "Locations/Saffron House.md",
-    "Locations/Isle of Terror.md",
-    "Locations/Castle Dahlia.md",
-    "Locations/Ardis.md"
-  ]
+  "active": "b284b1af26406433",
+  "lastOpenFiles": []
 }

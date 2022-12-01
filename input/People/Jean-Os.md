@@ -1,3 +1,0 @@
-Me - Genos but in this world
-
-During the fall of Jistka, Jean-os's small defenseless village was wiped out by a lone member of the Osirion army. He was badly wounded in the attack. Driven by his desire for revenge, Jean-os agreed to have his mind, life force, and soul transplanted into one of the newly developed constructs nown as automatons. The Jiska Imperium collapsed shortly after, leaving Jean-os to seek his revenge on his own. Millennia have passed and Jean-os has never been able to find the soldier who destroyed his village. The years have worn greatly on his psyche. He does not now whether his foe survives or even what they looked like, but he is positive he will know when he finds them, and he is certain he will exact his revenge.

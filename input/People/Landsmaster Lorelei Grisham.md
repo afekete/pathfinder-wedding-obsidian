@@ -1,2 +1,0 @@
-human in full armor that was meeting with Marov. In charge of the castle's defenses according to him. 
-Assisting [Ariox Corundum](Ariox%20Corundum.md) in disrupting a focal point for the [Summoning Circle](../Missions/Summoning%20Circle.md).
