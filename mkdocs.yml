@@ -1,4 +1,5 @@
 site_name: Wedding Campaign
-theme: readthedocs
+theme: 
+  name: readthedocs
 docs_dir: 'C:\Users\gamin\OneDrive\Documents\Obsidian Vault'
 site_dir: docs
