@@ -1,0 +1,13 @@
+- Load onto boat
+- [[Free Captain's Regata]] starting spot
+- [[Boat Driving]] 
+- [[Tho Rimplethemper]] with us
+	- drawing up a path
+- [[Parmesan]] the cat on boat
+- Gigantic dreadnaught ship at the gathering
+	- [[Master of the Gales]] 
+	- [[Tessa Fairwind]] 
+	- Automaton construct at the helm
+		- sentient with magic powers
+- Next closest boat filled with knolls
+	- Jamie stole boat from one of them

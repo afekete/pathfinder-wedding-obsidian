@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "fe1912096dad23f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a02c3c1327fe576",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc199086d413f18c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/February 21, 2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3fde5c8f00976c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "76644a918eec2548",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f69d1b2cccf2bba8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "587557cbbd4d14a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "365ddcb2ce83d13e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ef9e765eeb4d6033",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf876a74b85df353",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e2fa3b2ca880a3e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Session Notes/February 21, 2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c3a46c7678dd46ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Session Notes/February 21, 2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "09af7a0f39520615",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c504e8267e555b52",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Session Notes/February 21, 2024.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "bc199086d413f18c",
+  "lastOpenFiles": [
+    "Session Notes/February 21, 2024.md",
+    "Untitled.canvas",
+    "Session Notes/January 24th, 2024.md",
+    "Session Notes/January 3rd, 2024.md",
+    "Session Notes/December 13th, 2023.md",
+    "Mechanics/Boat Driving.md",
+    "Event/Free Captain's Regata.md",
+    "Characters/Tessa Fairwind.md",
+    "Characters/Myanar.md",
+    "Characters/Master of the Gales.md",
+    "docs",
+    "New folder",
+    "Mechanics",
+    "Pasted image 20240221203443.png",
+    "Pasted image 20240221203356.png",
+    "Characters/Parmesan.md",
+    "Event",
+    "Untitled(3).png",
+    "Characters/Tho Rimplethemper.md",
+    "Session Notes",
+    "Gnoll02.webp",
+    "Characters"
+  ]
+}

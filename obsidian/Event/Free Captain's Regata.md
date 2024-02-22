@@ -1,0 +1,5 @@
+- race around hurricane
+- winner gets an island
+- used to be smuggling run
+- 500 gold entrance fee, winner takes all
+- winner gets seat on pirate council

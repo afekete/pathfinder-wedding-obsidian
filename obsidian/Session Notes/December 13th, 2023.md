@@ -1,0 +1,28 @@
+- Jamie's crew is out, about a week away
+- Friends of Jamie's crew can help us out
+	- meet him at Drenchport
+	- Myanar, Captain Kyne (she)
+	- Ship: Traveler Returns
+- rough sailing
+- Drenchport is just levels of wood structures
+- Go to bar in search of friends
+	- Gnolls fighting dwarf water bending
+	- Catman has orange/yellow wizard robe & hard hat
+		- stopping people from being hurt
+- Dwarf asks where they took Kyne
+- Gnome by bar has giant gun
+	- Ray Rimblethemper (Ms.)
+- Dwarf is [[Myanar]]
+	- eyepatch & lots of jewelry
+- Randal Lathouzsky is Catman
+	- union rep
+- Tho Rimplethemper is dad who knows how to win race
+	- Currently missing
+- Gnolls seem spacey
+- World endy fish messed with Gnolls
+- Go to Tho's house
+	- hole in ground, big enough for person
+- clear gooey substance around hole
+	- make you  breath water instead of air for a bit
+- find fish monster in water, Ganash, Tugboat, Jamie dive in after it
+	- abolith is fish monster, watching spot

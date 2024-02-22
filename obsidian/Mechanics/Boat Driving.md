@@ -1,0 +1,7 @@
+- Sailing skill to drive boat
+- 7 cannons
+- port is left, starboard is right
+- rolls to do things faster
+- feather fall from over 5 feet
+- cruise control available
+- 300 miles / day top speed
