@@ -5,3 +5,10 @@
 - feather fall from over 5 feet
 - cruise control available
 - 300 miles / day top speed
+- movement 120ft
+- full turn to reload
+- The Traveller Returning 
+	- AC 28 Fort +23 Hp 131/131 20 hardness 
+	- Heavy Cannon Volley +18 7d12+7 dmg (1 turn recharge) 
+	- 8d10 collision dmg DC 28 save
+	- current health: 112

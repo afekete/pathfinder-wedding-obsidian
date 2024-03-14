@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[High Seas Campaign]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>High Seas Campaign</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 22 Feb 2024 03:51:34 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 22 Feb 2024 03:51:33 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Master of the Gales]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[High Seas Campaign]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>High Seas Campaign</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 14 Mar 2024 01:57:44 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 14 Mar 2024 01:57:43 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Master of the Gales]]></title><description><![CDATA[ 
  <br>
 <br>short funny guy
 <br>won the race then retired to be judge
@@ -10,7 +10,7 @@ First Mate of Traveler Returns<br><img alt="Gnoll02.webp" src="\lib\media\gnoll0
 <br>The hurricane queen
 <br>Head of pirate council
 <br><img alt="Pasted image 20240221203443.png" src="\lib\media\pasted-image-20240221203443.png">]]></description><link>characters\tessa-fairwind.html</link><guid isPermaLink="false">Characters/Tessa Fairwind.md</guid><pubDate>Thu, 22 Feb 2024 02:39:42 GMT</pubDate><enclosure url="lib\media\pasted-image-20240221203443.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20240221203443.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tho Rimplethemper]]></title><description><![CDATA[ 
- <br>Gnome meteorologist who can help with race]]></description><link>characters\tho-rimplethemper.html</link><guid isPermaLink="false">Characters/Tho Rimplethemper.md</guid><pubDate>Thu, 25 Jan 2024 01:41:32 GMT</pubDate></item><item><title><![CDATA[Boat Driving]]></title><description><![CDATA[ 
+ <br>Gnome meteorologist who can help with race<br>Dummy thicc]]></description><link>characters\tho-rimplethemper.html</link><guid isPermaLink="false">Characters/Tho Rimplethemper.md</guid><pubDate>Thu, 14 Mar 2024 01:10:23 GMT</pubDate></item><item><title><![CDATA[Boat Driving]]></title><description><![CDATA[ 
  <br>
 <br>Sailing skill to drive boat
 <br>7 cannons
@@ -19,7 +19,17 @@ First Mate of Traveler Returns<br><img alt="Gnoll02.webp" src="\lib\media\gnoll0
 <br>feather fall from over 5 feet
 <br>cruise control available
 <br>300 miles / day top speed
-]]></description><link>mechanics\boat-driving.html</link><guid isPermaLink="false">Mechanics/Boat Driving.md</guid><pubDate>Thu, 22 Feb 2024 02:21:01 GMT</pubDate></item><item><title><![CDATA[Free Captain's Regata]]></title><description><![CDATA[ 
+<br>movement 120ft
+<br>full turn to reload
+<br>The Traveller Returning 
+
+<br>AC 28 Fort +23 Hp 131/131 20 hardness 
+<br>Heavy Cannon Volley +18 7d12+7 dmg (1 turn recharge) 
+<br>8d10 collision dmg DC 28 save
+<br>current health: 112
+
+
+]]></description><link>mechanics\boat-driving.html</link><guid isPermaLink="false">Mechanics/Boat Driving.md</guid><pubDate>Thu, 14 Mar 2024 01:34:45 GMT</pubDate></item><item><title><![CDATA[Free Captain's Regata]]></title><description><![CDATA[ 
  <br>
 <br>race around hurricane
 <br>winner gets an island
@@ -86,7 +96,7 @@ First Mate of Traveler Returns<br><img alt="Gnoll02.webp" src="\lib\media\gnoll0
 <br>abolith is fish monster, watching spot
 
 
-]]></description><link>session-notes\december-13th,-2023.html</link><guid isPermaLink="false">Session Notes/December 13th, 2023.md</guid><pubDate>Thu, 04 Jan 2024 01:44:57 GMT</pubDate></item><item><title><![CDATA[February 21, 2024]]></title><description><![CDATA[ 
+]]></description><link>session-notes\december-13th,-2023.html</link><guid isPermaLink="false">Session Notes/December 13th, 2023.md</guid><pubDate>Thu, 04 Jan 2024 01:44:57 GMT</pubDate></item><item><title><![CDATA[February 21st, 2024]]></title><description><![CDATA[ 
  <br>
 <br>Load onto boat
 <br><a data-href="Free Captain's Regata" href="\quests\free-captain's-regata.html" class="internal-link" target="_self" rel="noopener">Free Captain's Regata</a> starting spot
@@ -113,7 +123,7 @@ First Mate of Traveler Returns<br><img alt="Gnoll02.webp" src="\lib\media\gnoll0
 <br>Jamie stole boat from one of them
 
 
-]]></description><link>session-notes\february-21,-2024.html</link><guid isPermaLink="false">Session Notes/February 21, 2024.md</guid><pubDate>Thu, 22 Feb 2024 02:43:18 GMT</pubDate></item><item><title><![CDATA[January 3rd, 2024]]></title><description><![CDATA[ 
+]]></description><link>session-notes\february-21st,-2024.html</link><guid isPermaLink="false">Session Notes/February 21st, 2024.md</guid><pubDate>Thu, 22 Feb 2024 02:43:18 GMT</pubDate></item><item><title><![CDATA[January 3rd, 2024]]></title><description><![CDATA[ 
  <br>
 <br>Fight fish and goo to save <a data-href="Tho Rimplethemper" href="\characters\tho-rimplethemper.html" class="internal-link" target="_self" rel="noopener">Tho Rimplethemper</a> Rimplethemper
 <br>Something about a prophet
@@ -137,4 +147,19 @@ First Mate of Traveler Returns<br><img alt="Gnoll02.webp" src="\lib\media\gnoll0
 <br>Woke up on docks and had instructions
 <br>Doesn't know anything
 <br>Tho mumbling about Kyne, meteors, &amp; knolls
-<br><img alt="Untitled(3).png" src="\lib\media\untitled(3).png">]]></description><link>session-notes\january-24th,-2024.html</link><guid isPermaLink="false">Session Notes/January 24th, 2024.md</guid><pubDate>Thu, 25 Jan 2024 03:25:55 GMT</pubDate><enclosure url="lib\media\untitled(3).png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\untitled(3).png"&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
+<br><img alt="Untitled(3).png" src="\lib\media\untitled(3).png">]]></description><link>session-notes\january-24th,-2024.html</link><guid isPermaLink="false">Session Notes/January 24th, 2024.md</guid><pubDate>Thu, 25 Jan 2024 03:25:55 GMT</pubDate><enclosure url="lib\media\untitled(3).png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\untitled(3).png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[March 13th, 2024]]></title><description><![CDATA[ 
+ <br>
+<br>we got to starting line of <a data-href="Free Captain's Regata" href="\quests\free-captain's-regata.html" class="internal-link" target="_self" rel="noopener">Free Captain's Regata</a>
+<br>Hurricane Queen <a data-href="Tessa Fairwind" href="\characters\tessa-fairwind.html" class="internal-link" target="_self" rel="noopener">Tessa Fairwind</a> and Master of Gales introduce race and prizes
+<br>5 balls with maps shoot out but 23 boats in race
+<br>Cerbera birds into map
+<br>wind in our sails
+<br>3 ships on our tail
+
+<br>robot ship
+
+
+<br><a data-href="Boat Driving" href="\mechanics\boat-driving.html" class="internal-link" target="_self" rel="noopener">Boat Driving</a> mechanic dump
+<br>Cerbera chain lightnings robot boat to death
+<br>Spider robots bring them back to life as zombie constructs
+]]></description><link>session-notes\march-13th,-2024.html</link><guid isPermaLink="false">Session Notes/March 13th, 2024.md</guid><pubDate>Thu, 14 Mar 2024 01:44:25 GMT</pubDate></item></channel></rss>

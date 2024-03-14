@@ -1,0 +1,10 @@
+- we got to starting line of [[Free Captain's Regata]]
+- Hurricane Queen [[Tessa Fairwind]] and Master of Gales introduce race and prizes
+- 5 balls with maps shoot out but 23 boats in race
+- Cerbera birds into map
+- wind in our sails
+- 3 ships on our tail
+	- robot ship
+- [[Boat Driving]] mechanic dump
+- Cerbera chain lightnings robot boat to death
+- Spider robots bring them back to life as zombie constructs

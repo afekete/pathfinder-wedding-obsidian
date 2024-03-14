@@ -1,5 +1,5 @@
 {
-  "settingsVersion": "1.8.0",
+  "settingsVersion": "1.8.01",
   "makeOfflineCompatible": false,
   "inlineAssets": false,
   "includePluginCSS": "",
@@ -18,7 +18,7 @@
   "minifyHTML": true,
   "makeNamesWebStyle": true,
   "onlyExportModified": false,
-  "deleteOldFiles": true,
+  "deleteOldFiles": false,
   "addThemeToggle": true,
   "addOutline": true,
   "addFileNav": true,
