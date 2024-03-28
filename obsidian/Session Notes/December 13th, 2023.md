@@ -12,7 +12,7 @@
 - Dwarf asks where they took Kyne
 - Gnome by bar has giant gun
 	- Ray Rimblethemper (Ms.)
-- Dwarf is [[Myanar]]
+- Dwarf is [[Maynar]]
 	- eyepatch & lots of jewelry
 - Randal Lathouzsky is Catman
 	- union rep

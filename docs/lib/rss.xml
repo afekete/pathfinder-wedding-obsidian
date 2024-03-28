@@ -1,10 +1,10 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[High Seas Campaign]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>High Seas Campaign</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 14 Mar 2024 01:57:44 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 14 Mar 2024 01:57:43 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Master of the Gales]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[High Seas Campaign]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>High Seas Campaign</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 28 Mar 2024 02:21:15 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 28 Mar 2024 02:21:14 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Master of the Gales]]></title><description><![CDATA[ 
  <br>
 <br>short funny guy
 <br>won the race then retired to be judge
-<br><img alt="Pasted image 20240221203356.png" src="\lib\media\pasted-image-20240221203356.png">]]></description><link>characters\master-of-the-gales.html</link><guid isPermaLink="false">Characters/Master of the Gales.md</guid><pubDate>Thu, 22 Feb 2024 02:34:00 GMT</pubDate><enclosure url="lib\media\pasted-image-20240221203356.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20240221203356.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Myanar]]></title><description><![CDATA[ 
+<br><img alt="Pasted image 20240221203356.png" src="\lib\media\pasted-image-20240221203356.png">]]></description><link>characters\master-of-the-gales.html</link><guid isPermaLink="false">Characters/Master of the Gales.md</guid><pubDate>Thu, 22 Feb 2024 02:34:00 GMT</pubDate><enclosure url="lib\media\pasted-image-20240221203356.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20240221203356.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Maynar]]></title><description><![CDATA[ 
  <br>Dwarf<br>
-First Mate of Traveler Returns<br><img alt="Gnoll02.webp" src="\lib\media\gnoll02.webp">]]></description><link>characters\myanar.html</link><guid isPermaLink="false">Characters/Myanar.md</guid><pubDate>Thu, 14 Dec 2023 02:38:53 GMT</pubDate><enclosure url="lib\media\gnoll02.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\gnoll02.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Parmesan]]></title><description><![CDATA[ 
+First Mate of Traveler Returns<br><img alt="Pasted image 20240327201258.png" src="\lib\media\pasted-image-20240327201258.png">]]></description><link>characters\maynar.html</link><guid isPermaLink="false">Characters/Maynar.md</guid><pubDate>Thu, 28 Mar 2024 01:13:00 GMT</pubDate><enclosure url="lib\media\pasted-image-20240327201258.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20240327201258.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Parmesan]]></title><description><![CDATA[ 
  <br>Chief mouser on the boat]]></description><link>characters\parmesan.html</link><guid isPermaLink="false">Characters/Parmesan.md</guid><pubDate>Thu, 22 Feb 2024 02:25:08 GMT</pubDate></item><item><title><![CDATA[Tessa Fairwind]]></title><description><![CDATA[ 
  <br>
 <br>The hurricane queen
@@ -64,7 +64,7 @@ First Mate of Traveler Returns<br><img alt="Gnoll02.webp" src="\lib\media\gnoll0
 <br>Ray Rimblethemper (Ms.)
 
 
-<br>Dwarf is <a data-href="Myanar" href="\characters\myanar.html" class="internal-link" target="_self" rel="noopener">Myanar</a>
+<br>Dwarf is <a data-href="Maynar" href="\characters\maynar.html" class="internal-link" target="_self" rel="noopener">Maynar</a>
 
 <br>eyepatch &amp; lots of jewelry
 
@@ -96,7 +96,7 @@ First Mate of Traveler Returns<br><img alt="Gnoll02.webp" src="\lib\media\gnoll0
 <br>abolith is fish monster, watching spot
 
 
-]]></description><link>session-notes\december-13th,-2023.html</link><guid isPermaLink="false">Session Notes/December 13th, 2023.md</guid><pubDate>Thu, 04 Jan 2024 01:44:57 GMT</pubDate></item><item><title><![CDATA[February 21st, 2024]]></title><description><![CDATA[ 
+]]></description><link>session-notes\december-13th,-2023.html</link><guid isPermaLink="false">Session Notes/December 13th, 2023.md</guid><pubDate>Thu, 28 Mar 2024 01:12:48 GMT</pubDate></item><item><title><![CDATA[February 21st, 2024]]></title><description><![CDATA[ 
  <br>
 <br>Load onto boat
 <br><a data-href="Free Captain's Regata" href="\quests\free-captain's-regata.html" class="internal-link" target="_self" rel="noopener">Free Captain's Regata</a> starting spot
@@ -162,4 +162,20 @@ First Mate of Traveler Returns<br><img alt="Gnoll02.webp" src="\lib\media\gnoll0
 <br><a data-href="Boat Driving" href="\mechanics\boat-driving.html" class="internal-link" target="_self" rel="noopener">Boat Driving</a> mechanic dump
 <br>Cerbera chain lightnings robot boat to death
 <br>Spider robots bring them back to life as zombie constructs
-]]></description><link>session-notes\march-13th,-2024.html</link><guid isPermaLink="false">Session Notes/March 13th, 2024.md</guid><pubDate>Thu, 14 Mar 2024 01:44:25 GMT</pubDate></item></channel></rss>
+]]></description><link>session-notes\march-13th,-2024.html</link><guid isPermaLink="false">Session Notes/March 13th, 2024.md</guid><pubDate>Thu, 14 Mar 2024 01:44:25 GMT</pubDate></item><item><title><![CDATA[March 27th, 2024]]></title><description><![CDATA[ 
+ <br>
+<br>no one attacks us after first battle
+<br>man of war ship attacking us
+
+<br>knoll of war actually
+
+
+<br>spend session planning how to attack single boat
+<br>Cerbera flies Jamie over and he drops Bathysphere on deck
+<br>Elf comes up from downstairs, sword drawn<br>
+<img alt="Pasted image 20240327210240.png" src="\lib\media\pasted-image-20240327210240.png">
+<br>fighting the knolls
+<br>Hynae
+<br>ship gets trapped in the whirlpool
+<br>flick of purple tail in whirlpool
+]]></description><link>session-notes\march-27th,-2024.html</link><guid isPermaLink="false">Session Notes/March 27th, 2024.md</guid><pubDate>Thu, 28 Mar 2024 02:09:30 GMT</pubDate><enclosure url="lib\media\pasted-image-20240327210240.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20240327210240.png"&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>

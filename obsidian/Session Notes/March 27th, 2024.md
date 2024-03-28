@@ -1,0 +1,11 @@
+- no one attacks us after first battle
+- man of war ship attacking us
+	- knoll of war actually
+- spend session planning how to attack single boat
+- Cerbera flies Jamie over and he drops Bathysphere on deck
+- Elf comes up from downstairs, sword drawn
+![[Pasted image 20240327210240.png]]
+- fighting the knolls
+- Hynae
+- ship gets trapped in the whirlpool
+- flick of purple tail in whirlpool
