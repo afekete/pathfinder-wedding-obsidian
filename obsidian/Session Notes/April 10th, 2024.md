@@ -1,0 +1,10 @@
+- the ol slap n kiss with Cerbera & elf from last time
+- she's the captain of the boat we are sailing
+- [[Kynay]]
+- near end of race
+- Cerbera side bar
+- poop story
+- giant sea serpent & eels fight
+- Cerbera and Tugboat get eaten
+- Ganash rides serpent
+- Erimor takes it out
