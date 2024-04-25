@@ -1,0 +1,31 @@
+- big purple thing is kraken racing to end to eat all ships
+- loud crack below us
+- taking on water
+- damage to keel
+- hard to fix while boat moving
+- we are far ahead in race
+- wait for Cerbera to get control wood skill to fix boat
+- peebo
+- Cerbera goes to rest in [[Kynay]]'s room but goes somewhere else
+- everyone else gives report to Kynay
+- lost 2 cannons on each side
+- 3 crew died in attack
+- food stores good
+- lore
+	- knolls working for abalith because they fear their people being enslaved
+	- Kynay had visions of abalith plans through knolls
+	- abalith needs to control seas
+	- she knows about meteor
+	- they have spies in all naval forces
+	- wildcards are pirates and masked elves
+	- abalith wants to just kill all pirates at end of this race
+	- neotholid is kraken at end
+![[Pasted image 20240424203335.png]]
+- created by abolith for certain needs
+- currently heading to finish line
+- controls wildlife
+- Kynay planning to hunt it
+	- she has history with the abolith
+- as we approach fight we see these
+![[Pasted image 20240424204643.png]]
+- neotholid more dangerous up close but can avoid zombie fish
