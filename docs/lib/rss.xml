@@ -1,11 +1,13 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[High Seas Campaign]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>High Seas Campaign</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 25 Apr 2024 01:49:15 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 25 Apr 2024 01:49:14 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Kynay]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[High Seas Campaign]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>High Seas Campaign</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 20 Jun 2024 02:00:41 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 20 Jun 2024 02:00:40 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Alison]]></title><description><![CDATA[ 
+ <br>Jamie's girlfriend who got kidnapped, we're trying to save her for this campaign]]></description><link>characters\alison.html</link><guid isPermaLink="false">Characters/Alison.md</guid><pubDate>Thu, 20 Jun 2024 01:57:17 GMT</pubDate></item><item><title><![CDATA[Kynay]]></title><description><![CDATA[ 
  <br>owns boat]]></description><link>characters\kynay.html</link><guid isPermaLink="false">Characters/Kynay.md</guid><pubDate>Thu, 11 Apr 2024 00:54:54 GMT</pubDate></item><item><title><![CDATA[Master of the Gales]]></title><description><![CDATA[ 
  <br>
 <br>short funny guy
 <br>won the race then retired to be judge
 <br><img alt="Pasted image 20240221203356.png" src="\lib\media\pasted-image-20240221203356.png">]]></description><link>characters\master-of-the-gales.html</link><guid isPermaLink="false">Characters/Master of the Gales.md</guid><pubDate>Thu, 22 Feb 2024 02:34:00 GMT</pubDate><enclosure url="lib\media\pasted-image-20240221203356.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20240221203356.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Maynar]]></title><description><![CDATA[ 
  <br>Dwarf<br>
-First Mate of Traveler Returns<br><img alt="Pasted image 20240327201258.png" src="\lib\media\pasted-image-20240327201258.png">]]></description><link>characters\maynar.html</link><guid isPermaLink="false">Characters/Maynar.md</guid><pubDate>Thu, 28 Mar 2024 01:13:00 GMT</pubDate><enclosure url="lib\media\pasted-image-20240327201258.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20240327201258.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Parmesan]]></title><description><![CDATA[ 
+First Mate of Traveler Returns<br><img alt="Pasted image 20240327201258.png" src="\lib\media\pasted-image-20240327201258.png">]]></description><link>characters\maynar.html</link><guid isPermaLink="false">Characters/Maynar.md</guid><pubDate>Thu, 28 Mar 2024 01:13:00 GMT</pubDate><enclosure url="lib\media\pasted-image-20240327201258.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20240327201258.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Oz]]></title><description><![CDATA[ 
+ <br>Jamie's first mate? And canonical boyfriend]]></description><link>characters\oz.html</link><guid isPermaLink="false">Characters/Oz.md</guid><pubDate>Thu, 20 Jun 2024 01:56:07 GMT</pubDate></item><item><title><![CDATA[Parmesan]]></title><description><![CDATA[ 
  <br>Chief mouser on the boat]]></description><link>characters\parmesan.html</link><guid isPermaLink="false">Characters/Parmesan.md</guid><pubDate>Thu, 22 Feb 2024 02:25:08 GMT</pubDate></item><item><title><![CDATA[Tessa Fairwind]]></title><description><![CDATA[ 
  <br>
 <br>The hurricane queen
@@ -26,11 +28,16 @@ First Mate of Traveler Returns<br><img alt="Pasted image 20240327201258.png" src
 
 <br>AC 28 Fort +23 Hp 131/131 20 hardness 
 <br>Heavy Cannon Volley +18 7d12+7 dmg (1 turn recharge) 
+
+<br>210 ft first range increment
+
+
+<br>Chase gun 2d12+2
 <br>8d10 collision dmg DC 28 save
 <br>current health: 112
 
 
-]]></description><link>mechanics\boat-driving.html</link><guid isPermaLink="false">Mechanics/Boat Driving.md</guid><pubDate>Thu, 14 Mar 2024 01:34:45 GMT</pubDate></item><item><title><![CDATA[Free Captain's Regata]]></title><description><![CDATA[ 
+]]></description><link>mechanics\boat-driving.html</link><guid isPermaLink="false">Mechanics/Boat Driving.md</guid><pubDate>Thu, 13 Jun 2024 00:53:51 GMT</pubDate></item><item><title><![CDATA[Free Captain's Regata]]></title><description><![CDATA[ 
  <br>
 <br>race around hurricane
 <br>winner gets an island
@@ -196,7 +203,47 @@ First Mate of Traveler Returns<br><img alt="Pasted image 20240327201258.png" src
 <br>Woke up on docks and had instructions
 <br>Doesn't know anything
 <br>Tho mumbling about Kyne, meteors, &amp; knolls
-<br><img alt="Untitled(3).png" src="\lib\media\untitled(3).png">]]></description><link>session-notes\january-24th,-2024.html</link><guid isPermaLink="false">Session Notes/January 24th, 2024.md</guid><pubDate>Thu, 25 Jan 2024 03:25:55 GMT</pubDate><enclosure url="lib\media\untitled(3).png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\untitled(3).png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[March 13th, 2024]]></title><description><![CDATA[ 
+<br><img alt="Untitled(3).png" src="\lib\media\untitled(3).png">]]></description><link>session-notes\january-24th,-2024.html</link><guid isPermaLink="false">Session Notes/January 24th, 2024.md</guid><pubDate>Thu, 25 Jan 2024 03:25:55 GMT</pubDate><enclosure url="lib\media\untitled(3).png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\untitled(3).png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[June 12th, 2024]]></title><description><![CDATA[ 
+ <br>Fighting giant water worm<br>
+giant mental blast<br>
+images of it destroying us fill our brain<br>
+on kill, storm above us clears for just a second]]></description><link>session-notes\june-12th,-2024.html</link><guid isPermaLink="false">Session Notes/June 12th, 2024.md</guid><pubDate>Thu, 13 Jun 2024 02:51:47 GMT</pubDate></item><item><title><![CDATA[June 19th, 2024]]></title><description><![CDATA[ 
+ <br>
+<br>dead fishy things become dead again
+<br>we have more visions<br>
+- meteor approaching<br>
+- closer now<br>
+- familiar dingy / cutter approaching island with spire of wood &amp; rock (<a data-href="Alison" href="\characters\alison.html" class="internal-link" target="_self" rel="noopener">Alison</a>'s)<br>
+- under spire see floating figure<br>
+<img alt="Pasted image 20240619194608.png" src="\lib\media\pasted-image-20240619194608.png"><br>
+- feels familiar somehow<br>
+- white string off back extends up spire<br>
+- phantom spears crossed over moon<br>
+- strand severed and bony hand engulfs vision and grabs us<br>
+- everyone in palm of skeleton<br>
+<img alt="Pasted image 20240619194825.png" src="\lib\media\pasted-image-20240619194825.png"><br>
+- tentacle in eye socket<br>
+- "found you"<br>
+- wake up<br>
+- old human wizard
+<br>Tugboat first to wake up
+<br>rain let up significantly
+<br>2 ships in distance, not moving
+<br><a data-href="Kynay" href="\characters\kynay.html" class="internal-link" target="_self" rel="noopener">Kynay</a> driving us to finish line
+<br>Jamie's boat is at the finish line, don't recognize other one
+<br>we won the <a data-href="Free Captain's Regata" href="\quests\free-captain's-regata.html" class="internal-link" target="_self" rel="noopener">Free Captain's Regata</a>
+<br>"Luck of the draw" is <a data-href="Tessa Fairwind" href="\characters\tessa-fairwind.html" class="internal-link" target="_self" rel="noopener">Tessa Fairwind</a>'s ship
+<br>12000 gold, 1800 each, rest goes to crew
+<br>seat on the pirate council
+<br>"Yer the owner" - island on map "Besmara's Throne"
+<br>Gherk is dead
+<br>Cerbera &amp; <a data-href="Kynay" href="\characters\kynay.html" class="internal-link" target="_self" rel="noopener">Kynay</a> kiss
+<br>18/23 ships make it to end
+<br>Jamie &amp; Cerbera have god pancakes
+<br>on sea sparrow, Jamie's ship
+<br>need to get to Ironbound Archipelago
+<br><a data-href="Oz" href="\characters\oz.html" class="internal-link" target="_self" rel="noopener">Oz</a> smooches Jamie
+]]></description><link>session-notes\june-19th,-2024.html</link><guid isPermaLink="false">Session Notes/June 19th, 2024.md</guid><pubDate>Thu, 20 Jun 2024 01:57:28 GMT</pubDate><enclosure url="lib\media\pasted-image-20240619194608.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20240619194608.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[March 13th, 2024]]></title><description><![CDATA[ 
  <br>
 <br>we got to starting line of <a data-href="Free Captain's Regata" href="\quests\free-captain's-regata.html" class="internal-link" target="_self" rel="noopener">Free Captain's Regata</a>
 <br>Hurricane Queen <a data-href="Tessa Fairwind" href="\characters\tessa-fairwind.html" class="internal-link" target="_self" rel="noopener">Tessa Fairwind</a> and Master of Gales introduce race and prizes

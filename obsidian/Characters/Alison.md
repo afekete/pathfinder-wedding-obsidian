@@ -1,0 +1,1 @@
+Jamie's girlfriend who got kidnapped, we're trying to save her for this campaign

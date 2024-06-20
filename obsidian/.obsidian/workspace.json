@@ -8,17 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "283a794e05676a0c",
+            "id": "e3e18b159683ad91",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/April 24th, 2024.md",
+                "file": "June 19th, 2024.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "85c7de4edc827dd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Oz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "386af1adeec8dfe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Alison.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -87,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/April 24th, 2024.md",
+                "file": "Session Notes/March 27th, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/April 24th, 2024.md",
+                "file": "Session Notes/March 27th, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/April 24th, 2024.md"
+                "file": "Session Notes/March 27th, 2024.md"
               }
             }
           }
@@ -149,9 +173,46 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "283a794e05676a0c",
+  "floating": {
+    "id": "9729a439a7f726cc",
+    "type": "floating",
+    "children": [
+      {
+        "id": "0c25b74fee7dc29f",
+        "type": "window",
+        "children": [
+          {
+            "id": "714cfd87382246aa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f5587af92e1256ce",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Notes/March 27th, 2024.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1270,
+        "y": 892,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "f5587af92e1256ce",
   "lastOpenFiles": [
-    "Session Notes/March 27th, 2024.md",
+    "Session Notes/March 13th, 2024.md",
     "Session Notes/January 24th, 2024.md",
     "Session Notes/January 3rd, 2024.md",
     "Session Notes/February 21st, 2024.md",
@@ -160,17 +221,23 @@
     "Quests/Free Captain's Regata.md",
     "Characters/Tho Rimplethemper.md",
     "Characters/Tessa Fairwind.md",
+    "Characters/Parmesan.md",
     "Characters/Maynar.md",
     "Characters/Master of the Gales.md",
+    "Characters/Alison.md",
+    "June 19th, 2024.md",
+    "Characters/Oz.md",
+    "Pasted image 20240619194825.png",
+    "Pasted image 20240619194608.png",
+    "Mechanics/Boat Driving.md",
+    "Session Notes/June 12th, 2024.md",
+    "Session Notes/March 27th, 2024.md",
     "Characters/Kynay.md",
     "imgs/Pasted image 20240424204643.png",
     "imgs/Pasted image 20240424203335.png",
-    "Session Notes/March 13th, 2024.md",
     "Session Notes/December 13th, 2023.md",
-    "Characters/Parmesan.md",
     "imgs/Pasted image 20240327201258.png",
     "imgs/Pasted image 20240327210240.png",
-    "Mechanics/Boat Driving.md",
     "imgs/Pasted image 20240221203356.png",
     "imgs/Gnoll02.webp",
     "imgs",
