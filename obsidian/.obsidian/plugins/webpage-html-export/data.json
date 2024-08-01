@@ -45,6 +45,8 @@
   "defaultMediaIcon": "lucide//file-image",
   "exportPath": "C:\\\\Users\\gamin\\Documents\\Obsidian\\High Seas Campaign\\docs",
   "filesToExport": [
-    []
+    [
+      "all"
+    ]
   ]
 }

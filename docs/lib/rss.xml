@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[High Seas Campaign]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>High Seas Campaign</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 20 Jun 2024 02:00:41 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 20 Jun 2024 02:00:40 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Alison]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[High Seas Campaign]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>High Seas Campaign</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 01 Aug 2024 02:14:48 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 01 Aug 2024 02:14:47 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Alison]]></title><description><![CDATA[ 
  <br>Jamie's girlfriend who got kidnapped, we're trying to save her for this campaign]]></description><link>characters\alison.html</link><guid isPermaLink="false">Characters/Alison.md</guid><pubDate>Thu, 20 Jun 2024 01:57:17 GMT</pubDate></item><item><title><![CDATA[Kynay]]></title><description><![CDATA[ 
  <br>owns boat]]></description><link>characters\kynay.html</link><guid isPermaLink="false">Characters/Kynay.md</guid><pubDate>Thu, 11 Apr 2024 00:54:54 GMT</pubDate></item><item><title><![CDATA[Master of the Gales]]></title><description><![CDATA[ 
  <br>
@@ -44,7 +44,8 @@ First Mate of Traveler Returns<br><img alt="Pasted image 20240327201258.png" src
 <br>used to be smuggling run
 <br>500 gold entrance fee, winner takes all
 <br>winner gets seat on pirate council
-]]></description><link>quests\free-captain's-regata.html</link><guid isPermaLink="false">Quests/Free Captain's Regata.md</guid><pubDate>Thu, 22 Feb 2024 02:48:05 GMT</pubDate></item><item><title><![CDATA[April 10th, 2024]]></title><description><![CDATA[ 
+]]></description><link>quests\free-captain's-regata.html</link><guid isPermaLink="false">Quests/Free Captain's Regata.md</guid><pubDate>Thu, 22 Feb 2024 02:48:05 GMT</pubDate></item><item><title><![CDATA[Save Alison]]></title><description><![CDATA[ 
+ <br><a data-href="Alison" href="\characters\alison.html" class="internal-link" target="_self" rel="noopener">Alison</a> was kidnapped and we need to save her]]></description><link>quests\save-alison.html</link><guid isPermaLink="false">Quests/Save Alison.md</guid><pubDate>Thu, 20 Jun 2024 02:05:18 GMT</pubDate></item><item><title><![CDATA[April 10th, 2024]]></title><description><![CDATA[ 
  <br>
 <br>the ol slap n kiss with Cerbera &amp; elf from last time
 <br>she's the captain of the boat we are sailing
@@ -203,7 +204,79 @@ First Mate of Traveler Returns<br><img alt="Pasted image 20240327201258.png" src
 <br>Woke up on docks and had instructions
 <br>Doesn't know anything
 <br>Tho mumbling about Kyne, meteors, &amp; knolls
-<br><img alt="Untitled(3).png" src="\lib\media\untitled(3).png">]]></description><link>session-notes\january-24th,-2024.html</link><guid isPermaLink="false">Session Notes/January 24th, 2024.md</guid><pubDate>Thu, 25 Jan 2024 03:25:55 GMT</pubDate><enclosure url="lib\media\untitled(3).png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\untitled(3).png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[June 12th, 2024]]></title><description><![CDATA[ 
+<br><img alt="Untitled(3).png" src="\lib\media\untitled(3).png">]]></description><link>session-notes\january-24th,-2024.html</link><guid isPermaLink="false">Session Notes/January 24th, 2024.md</guid><pubDate>Thu, 25 Jan 2024 03:25:55 GMT</pubDate><enclosure url="lib\media\untitled(3).png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\untitled(3).png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[July 24th, 2024]]></title><description><![CDATA[ 
+ <br>
+<br>food went moldy
+<br>stop at place with no religion
+<br>Jamie getting food, will send word when it's ready
+<br><a data-href="Kynay" href="\characters\kynay.html" class="internal-link" target="_self" rel="noopener">Kynay</a> takes us to beach
+<br>swordpit store
+
+<br>place is underground
+<br>guy wrapped in cloth with big beard
+<br>he has 4 items
+
+
+<br>chase cat to beach
+<br>cat rubs lamp and genies come out
+<br><img alt="Pasted image 20240724195926.png" src="\lib\media\pasted-image-20240724195926.png">]]></description><link>session-notes\july-24th,-2024.html</link><guid isPermaLink="false">Session Notes/July 24th, 2024.md</guid><pubDate>Thu, 25 Jul 2024 00:59:28 GMT</pubDate><enclosure url="lib\media\pasted-image-20240724195926.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20240724195926.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[July 31st, 2024]]></title><description><![CDATA[ 
+ <br>
+<br>nonmoldy food back on boat
+<br>head out again
+<br>voyage up is uneventful
+<br>meteor coming closer
+<br>Jamie tries to move moon
+<br>ironbound archipelago
+<br>Cerbera is spreading rumors
+<br>Chief mouser is Catface
+<br>giant stone dragon tail<br>
+<img alt="Pasted image 20240731195059.png" src="\lib\media\pasted-image-20240731195059.png">
+<br>no boats around island
+<br>no people on island
+
+<br>signs of huts though
+<br>appear abandoned for weeks
+
+
+<br>see grotto
+<br>see friend with big bow who stole <a data-href="Alison" href="\characters\alison.html" class="internal-link" target="_self" rel="noopener">Alison</a>
+<br>Cerbera uses phone thing to whisper to him
+
+<br>"Alison is unharmed, come meet me"
+
+
+<br>park boat and paddle in
+<br>head down into spire
+<br>gets darker then brighter
+<br>feel a sort of heartbeat
+<br>figure at end of hallway<br>
+<img alt="Pasted image 20240731201355.png" src="\lib\media\pasted-image-20240731201355.png">
+<br>masked elf kneeling in front of form, Alison bound off to side
+<br>elf unbinds her and she walks over
+<br>frozen figure is Acavna the Shield
+
+<br>dead goddess
+<br>sacrificed herself to make less doomsday less bad
+<br>mankind's first shame
+
+
+<br>Jamie's soul is intertwined with Acavna
+<br>Jamie has to sacrifice himself to bring Acavna back so she can sacrifice herself to stop the meteor
+<br>Jamie walks up to body and some being teleports in<br>
+<img alt="Pasted image 20240731203901.png" src="\lib\media\pasted-image-20240731203901.png"><br>
+image of this over his shoulder<br>
+<img alt="Pasted image 20240731203937.png" src="\lib\media\pasted-image-20240731203937.png">
+<br>room fills with half fish hybrids
+<br>elf nocks arrow at wizard
+<br>robed figure stuns us with power word
+<br>everything fades to black
+<br>not in cavern anymore
+<br>in labyrinth
+<br>leviathan sized whales floating above us
+<br>also skeleton wizard up there staring down at us, holding the elf
+<br>light shooting up from points in labyrinth, large purple one in center
+<br>heavy footsteps around us
+]]></description><link>session-notes\july-31st,-2024.html</link><guid isPermaLink="false">Session Notes/July 31st, 2024.md</guid><pubDate>Thu, 01 Aug 2024 01:51:09 GMT</pubDate><enclosure url="lib\media\pasted-image-20240731195059.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20240731195059.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[June 12th, 2024]]></title><description><![CDATA[ 
  <br>Fighting giant water worm<br>
 giant mental blast<br>
 images of it destroying us fill our brain<br>
